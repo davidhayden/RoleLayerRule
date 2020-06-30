@@ -14,7 +14,7 @@ This method can be used as part of a layer rule to specify that widgets in a lay
 
 ## Getting Started
 
-Add the NuGet package, **RoleLayerRule.OrchardCore**, to the Orchard Core CMS Website. Launch the website and sign in as an administrator to enable the module from the dashboard under <i>Configuration</i> -> <i>Modules</i>.
+Add the NuGet package, **RoleLayerRule.OrchardCore**, to the Orchard Core CMS Website. Launch the website and sign in as an administrator to enable the module from the dashboard under <i>Configuration</i> -> <i>Features</i>.
 
 ![RoleLayerRule.OrchardCore](https://github.com/davidhayden/RoleLayerRule/blob/master/assets/role-layer-rule-orchard-core-cms-module.png?raw=true)
 
